@@ -48,14 +48,6 @@ GEMINI_API_KEY=tu_api_key_de_gemini
 GEMINI_MODEL=gemini-2.5-flash
 ```
 
-## Ejecucion
-
-Con el entorno virtual activado:
-
-```bash
-python3 main.py
-```
-
 ## Menu
 
 Menu de acceso:
@@ -92,8 +84,3 @@ guardian-clima-itba/
 `data/historial_global.csv`
 - guarda usuario, ciudad, fecha y hora, temperatura, condicion climatica, humedad y viento
 - sirve despues para hacer los graficos en Excel o Google Sheets
-
-## Aclaracion importante
-
-Este proyecto guarda contrasenas en texto plano solo porque es una simulacion educativa.
-En una aplicacion real habria que usar hashing y mejores practicas de autenticacion.
