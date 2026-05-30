@@ -13,6 +13,13 @@ Permite registrar usuarios, iniciar sesion, consultar el clima actual, guardar u
 - calcula estadisticas globales
 - genera un consejo de vestimenta con Gemini a partir de la ultima consulta
 
+## Enlaces
+
+- Video de demostracion:
+  https://drive.google.com/file/d/1e8vwP78FzzEXrdkEueBPpyp5fYQ8Jj6u/view?usp=sharing
+- Graficos en Google Sheets:
+  https://docs.google.com/spreadsheets/d/1y274_NedGeQccCVgFI7NdcrmJDD3hG8hXrORPvrg4g0/edit?gid=2143303849#gid=2143303849
+
 ## Tecnologias
 
 - Python 3
