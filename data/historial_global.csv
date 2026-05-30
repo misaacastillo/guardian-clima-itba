@@ -1,3 +1,18 @@
 usuario,ciudad,fecha_hora,temperatura_c,condicion_clima,humedad_porcentaje,viento_kmh
 Misa,Quilmes,2026-05-28 17:01:52,14.1,nubes,83,14.4
 Misa,Varela,2026-05-29 17:24:24,27.8,nubes,78,4.8
+Misa,Mendoza,2026-05-29 21:30:27,14.7,cielo claro,62,5.5
+Misa,Rosario,2026-05-29 21:30:41,14.1,cielo claro,84,13.0
+Misa,Salta,2026-05-29 21:30:52,13.7,muy nuboso,80,11.1
+Misa,Córdoba,2026-05-29 21:31:04,13.6,nubes,84,8.6
+Misa,Buenos Aires,2026-05-29 21:31:26,11.4,algo de nubes,83,7.4
+Misa,Quilmes,2026-05-29 21:31:30,11.5,nubes dispersas,85,9.1
+Misa,Varela,2026-05-29 21:31:37,23.9,muy nuboso,88,7.8
+Misa,Quilmes,2026-05-29 21:36:07,11.5,nubes dispersas,85,9.1
+Misa,Quilmes,2026-05-29 21:36:44,11.5,nubes dispersas,85,9.1
+Misa,Varela,2026-05-29 21:36:49,23.7,muy nuboso,88,7.8
+Misa,Salta,2026-05-29 21:36:56,13.7,muy nuboso,80,11.1
+esteban07,Quilmes,2026-05-29 22:00:02,11.5,nubes dispersas,85,9.1
+esteban07,Varela,2026-05-29 22:00:24,23.1,muy nuboso,88,7.8
+esteban07,Salta,2026-05-29 22:00:29,13.7,muy nuboso,80,11.1
+MisaelCastillo,Quilmes,2026-05-29 22:38:05,11.5,algo de nubes,86,8.1
